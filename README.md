@@ -26,3 +26,4 @@ This will launch the application in your default web browser.
 
 ## Server
 In the `server` folder, you can find the `/sudes_net` directory. You can copy it and paste it into `C:\xampp\htdocs`.
+create `/log/error_log.log` to view log
